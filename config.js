@@ -12,7 +12,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '🎀'],  // Heart emojis
-        bears: ['🧸','😘', '🐻','🐣','💋','✨','💞']                       // Cute bear emojis
+        bears: ['🧸','😘','🐣','💋','✨']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -33,13 +33,7 @@ const CONFIG = {
         third: {
             text: "Will you be my Valentine forever? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
-        },
-          fourth: {
-            text: "Do you think about me anytime.?",
-            yesBtn: "Always",                                             // Text for "Yes" button
-            noBtn: "sometimes",                                               // Text for "No" button
-            secretAnswer: "Chepalenatha! ❤️"
+            noBtn: "No"                                                 // Text for "No" button 
         }
     }
 
@@ -55,7 +49,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest person in the world to Have you & you too to have me 🎉💝💖💝💓",
         message: "I love you forever - come get your gift, a big warm hug and a huge kiss💋",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "💖🤗💋❤️"  // These will bounce around
     },
 
     // Color scheme for the website
